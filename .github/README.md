@@ -1,3 +1,22 @@
+## Portable assembly integration
+
+This **Quest Loot Party** fork is maintained for
+[AzerothCore Playerbots Portable](https://github.com/Syntax555/mod-playerbots-portable/blob/main/README.md). Its original upstream is
+[pangolp/mod-quest-loot-party](https://github.com/pangolp/mod-quest-loot-party), imported at
+[`c3955915c76d`](https://github.com/pangolp/mod-quest-loot-party/commit/c3955915c76d5a22a9d25a44482345d368a8de82).
+The assembly pins a tested commit of this fork's `main` branch in
+[`versions.lock.json`](https://github.com/Syntax555/mod-playerbots-portable/blob/main/versions.lock.json), together with its matching core and modules.
+
+Use the assembly's [installation and build instructions](https://github.com/Syntax555/mod-playerbots-portable/blob/main/README.md),
+[module catalog](https://github.com/Syntax555/mod-playerbots-portable/blob/main/docs/module-versions.md#server-modules) and
+[Party loot integration](https://github.com/Syntax555/mod-playerbots-portable/blob/main/docs/adaptations.md#playerbots-and-group-play). Before contributing, read its
+[repository rules](https://github.com/Syntax555/mod-playerbots-portable/blob/main/AGENTS.md) and [fork workflow](https://github.com/Syntax555/mod-playerbots-portable/blob/main/CONTRIBUTING.md#changing-the-server).
+The **Portable integration** workflow checks this fork's current commit against
+the assembly's pinned dependencies with the relevant production fixtures.
+
+---
+
+
 # ![logo](https://raw.githubusercontent.com/azerothcore/azerothcore.github.io/master/images/logo-github.png) AzerothCore
 
 ## Quest Loot Party Module
