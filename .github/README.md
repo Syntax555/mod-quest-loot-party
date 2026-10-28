@@ -4,7 +4,7 @@ This **Quest Loot Party** fork is maintained for
 [AzerothCore Playerbots Portable](https://github.com/Syntax555/mod-playerbots-portable/blob/main/README.md). Its original upstream is
 [pangolp/mod-quest-loot-party](https://github.com/pangolp/mod-quest-loot-party), imported at
 [`c3955915c76d`](https://github.com/pangolp/mod-quest-loot-party/commit/c3955915c76d5a22a9d25a44482345d368a8de82).
-The assembly pins a tested commit of this fork's `main` branch in
+The assembly pins a tested commit of this fork's `master` branch in
 [`versions.lock.json`](https://github.com/Syntax555/mod-playerbots-portable/blob/main/versions.lock.json), together with its matching core and modules.
 
 Use the assembly's [installation and build instructions](https://github.com/Syntax555/mod-playerbots-portable/blob/main/README.md),
